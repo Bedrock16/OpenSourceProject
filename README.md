@@ -1,9 +1,10 @@
 # OSS Capstone Project: The Open Source Audit
 
-**Repository:** [Bedrock16/OpenSourceProject](https://github.com/Bedrock16/OpenSourceProject)
+**Name:** Atharv Patahk
+**Reg No:** 24BSA10208
+**Slot:** B22
 **Course:** Open Source Software
 **College:** VIT Bhopal University
-
 ---
 
 ## Software Chosen
@@ -27,27 +28,6 @@ I chose Linux and Bash scripting because they form the backbone of open-source c
 | `DirectoryAuditReport.sh` | Analyzes key directories and displays their size, owner, and permissions |
 | `LogFileAnalyzer.sh` | Reads a log file and counts occurrences of a keyword |
 | `OpenSourceManifestoGenerator.sh` | Generates a personalized open-source manifesto based on user input |
-
----
-
-## Screenshots
-
-### System Identity Report
-![System Identity Report](https://raw.githubusercontent.com/Bedrock16/OpenSourceProject/main/images/SystemIdentityReport.png)
-
-### FOSS Package Inspector
-![FOSS Package Inspector](https://raw.githubusercontent.com/Bedrock16/OpenSourceProject/main/images/FOSSPackageInspector.png)
-
-### Directory Audit Report
-![Directory Audit Report](https://raw.githubusercontent.com/Bedrock16/OpenSourceProject/main/images/DirectoryAuditReport.png)
-
-### Log File Analyzer
-![Log File Analyzer](https://raw.githubusercontent.com/Bedrock16/OpenSourceProject/main/images/LogFileAnalyzer.png)
-
-### Open Source Manifesto Generator
-![Open Source Manifesto Generator](https://raw.githubusercontent.com/Bedrock16/OpenSourceProject/main/images/OpenSourceManifestoGenerator.png)
-
-> **Note:** If images do not load, please check the `images/` folder in the repository for screenshots.
 
 ---
 
